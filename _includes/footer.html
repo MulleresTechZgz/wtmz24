@@ -4,21 +4,29 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-6 text-center">
-      <ul class="list-inline">
+        <ul class="list-inline">
           <li>
-            <a href="mailto:{{ site.email }}" target="_blank"><i class="fa fa-envelope-o fa-fw fa-3x"></i></a>
+            <a href="mailto:{{ site.email }}" target="_blank"><i class="fa fa-envelope-o fa-fw fa-2x"></i></a>
           </li>
           <li>
-            <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank"><i class="fa fa-twitter fa-fw fa-3x"></i></a>
+            <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank"><i class="fa fa-twitter fa-fw fa-2x"></i></a>
           </li>
           <li>
-            <a href="https://instagram.com/{{ site.instagram_username }}" target="_blank"><i class="fa fa-instagram fa-fw fa-3x"></i></a>
+            <a href="https://instagram.com/{{ site.instagram_username }}" target="_blank"><i class="fa fa-instagram fa-fw fa-2x"></i></a>
           </li>
           <li>
-            <span class="wtm-highlight" style="font-size: 28px;">#{{ site.hashtag }}</span>
+            <a href="https://linkedin.com/company/{{ site.linkedin_page }}" target="_blank"><i class="fa fa-linkedin fa-fw fa-2x"></i></a>
           </li>
           <li>
-            <a href="https://github.com/{{ site.github_username }}" target="_blank"><i class="fa fa-github fa-fw fa-3x"></i></a>
+            <a href="{{ site.telegram_channel }}" target="_blank"><i class="fa fa-paper-plane fa-fw fa-2x" aria-hidden="true"></i></a>
+          </li>
+          <li>
+            <a href="https://github.com/{{ site.github_username }}" target="_blank"><i class="fa fa-github fa-fw fa-2x"></i></a>
+          </li>
+        </ul>
+        <ul class="list-inline">
+          <li>
+            <span class="wtm-highlight" style="font-size: 26px;">#{{ site.hashtag }}</span>
           </li>
         </ul>
       </div>
