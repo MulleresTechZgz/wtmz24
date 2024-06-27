@@ -20,8 +20,14 @@
 
             <div class="col-lg-8 col-lg-offset-2">
                 <p class="lead">¡Entra en nuestro Call For Papers para proponer tu charla!</p>
+            </div>
+
+            <div id="fecha_fin_c4p" class="col-lg-8 col-lg-offset-2" style="display: block;">
                 <p class="lead">¡Tienes hasta el 30 de junio! </p>
-                <!--<p class="lead">¡Ampliamos la fecha! ¡Tienes hasta el 7 de julio! </p>-->
+            </div>
+
+            <div id="fecha_fin_c4p_ampliacion" class="col-lg-8 col-lg-offset-2" style="display: none;">
+                <p class="lead">¡Ampliamos la fecha! ¡Tienes hasta el 7 de julio! </p>
             </div>
 
             <div class="col-lg-12 text-center">
@@ -29,6 +35,65 @@
             </div>
         </div>
         <!-- /.container -->
-
     </div>
 </section>
+
+<section id="list-speakers" class="speakers" style="display: none;">
+  <div class="container">
+    <div class="row text-center">
+      <hr class="section-heading-spacer" style="border-top: 5px solid #4285f4; width: 300px;">
+    </div>
+    <div class="row text-center">
+      <h2 style="text-align: left;">Ponentes</h2>
+      <div class="col-lg-10 col-lg-offset-2">
+        <p class="lead_big">¡Proximamente publicaremos las ponentes de las charlas y talleres seleccionados! </p>
+      </div>
+      <!-- /.col-lg-10 -->
+    </div>
+    <!-- /.row -->
+  </div>
+<!-- /.container -->
+</section>
+
+    <script>
+
+    // Set the date we're counting down to
+    var countDown_extend_c4p = new Date("Jun 30, 2024 19:45:00");
+
+    var countDown_end_c4p = new Date("Jul 7, 2024 23:59:59");
+
+    function cambiar_texto_a_mostrar_c4p () {
+      // Get todays date and time
+      var now = new Date();
+
+      var es_dia_de_ampliacion_c4p = (now >= countDown_extend_c4p);
+      var es_dia_de_fin_c4p = (now >= countDown_end_c4p);
+
+      // Find the distance between now an the count down date
+      if (es_dia_de_fin_c4p) {
+        // Publicamos el texto de fin de C4P
+        document.getElementById("join-speakers").style.display = 'none';
+        document.getElementById("menu-join-speakers").style.display = 'none';
+        document.getElementById("list-speakers").style.display = 'block';
+        document.getElementById("menu-list-speakers").style.display = 'block';
+      }
+      else if (es_dia_de_ampliacion_c4p) {
+        // Publicamos el texto de ampliacion de C4P
+        document.getElementById("fecha_fin_c4p").style.display = 'none';
+        document.getElementById("fecha_fin_c4p_ampliacion").style.display = 'block';
+      }
+      else {
+        // Publicamos el texto de fecha sin ampliacion
+        document.getElementById("fecha_fin_c4p").style.display = 'block';
+        document.getElementById("fecha_fin_c4p_ampliacion").style.display = 'none';
+      }
+      
+    }
+
+    cambiar_texto_a_mostrar_c4p();
+
+    // Update the count down every 1 second
+    var x_c4p = setInterval(function() {
+        cambiar_texto_a_mostrar_c4p();
+    }, 1000);
+  </script>

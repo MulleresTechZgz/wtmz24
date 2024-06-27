@@ -5,4 +5,19 @@
 	   		<img src="img/portada/home_mobile.jpg" style="max-width: 100%" class="image_mobile1"/>
 	   	</div>
 	</div>
+	<p id="hora_real_servidor" hidden></p>
+	<script>
+	    function cambiar_hora_real_servidor () {
+	      // Get todays date and time
+	      var now = new Date();
+	      document.getElementById("hora_real_servidor").innerHTML = now;
+	    }
+
+	    cambiar_hora_real_servidor();
+
+	    // Update the count down every 1 second
+	    var x_header = setInterval(function() {
+	        cambiar_hora_real_servidor();
+	    }, 1000);
+  	</script>
 </header>
