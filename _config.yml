@@ -21,8 +21,8 @@ github_username: MulleresTechZgz
 linkedin_page: women-techmakers-zaragoza
 telegram_channel: https://t.me/+72hRalBpfSIzY2M8
 address:
-  - line: ETOPIA Centro de Arte y Tecnología
-  - line: Av. de la Ciudad de Soria, 8 (50003) Zaragoza
+  - line: ITA - Instituto Tecnológico de Aragón
+  - line: C. María de Luna, 7 (50018) Zaragoza
   # Feel free to add more lines here 
 telephone:
 copyright:
@@ -194,13 +194,13 @@ organizers:
 #    twitter: 
 #    instagram: 
 
-#sponsors_gold:
-#  - name: Deiser
-#    text: 
-#    image: img/patrocinadores/gold/deiser.png
-#    web: https://www.deiser.com/es/
-#    twitter: deiser
-#    instagram: deiserteam
+sponsors_gold:
+  - name: GeoSLab
+    text: 
+    image: img/patrocinadores/gold/geoslab.png
+    web: https://www.geoslab.com/
+    twitter: GeoSLab
+    instagram: 
 
 #sponsors_silver:
 #  - name: Empresa Genérica
