@@ -201,6 +201,12 @@ sponsors_gold:
     web: https://www.geoslab.com/
     twitter: GeoSLab
     instagram: 
+  - name: Excentia
+    text: 
+    image: img/patrocinadores/gold/excentia.png
+    web: https://www.excentia.es/
+    twitter: excentia
+    instagram: 
 
 #sponsors_silver:
 #  - name: Empresa Genérica
