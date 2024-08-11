@@ -209,6 +209,13 @@ sponsors_gold:
     twitter: excentia
     instagram: 
     linkedin: excentia
+  - name: Codely
+    text: 
+    image: img/patrocinadores/gold/codely.png
+    web: https://codely.com/
+    twitter: CodelyTV
+    instagram: codelytv
+    linkedin: codelytv
 
 #sponsors_silver:
 #  - name: Empresa Genérica
