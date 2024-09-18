@@ -186,13 +186,14 @@ organizers:
 #    linkedin_account: silviaballarin
 
 #List for sponsors
-#sponsors_platinum:
-#  - name: Empresa Genérica
-#    text: 
-#    image: img/patrocinadores/generico/empresa1.png
-#    web: #
-#    twitter: 
-#    instagram: 
+sponsors_platinum:
+  - name: Next Digital
+    text: 
+    image: img/patrocinadores/platinum/nextdigital.png
+    web: https://www.nextdigital.es/
+    twitter: nextdigitalhub
+    instagram: 
+    linkedin: nextdigitalhub
 
 sponsors_gold:
   - name: GeoSLab
@@ -216,6 +217,20 @@ sponsors_gold:
     twitter: CodelyTV
     instagram: codelytv
     linkedin: codelytv
+  - name: K-LAGAN
+    text: 
+    image: img/patrocinadores/gold/klagan.png
+    web: https://www.k-lagan.com/index.html
+    twitter: KLAGAN_KLG
+    instagram: klagan_tech
+    linkedin: k-lagan
+  - name: Endalia
+    text: 
+    image: img/patrocinadores/gold/endalia.png
+    web: https://www.endalia.com/
+    twitter: 
+    instagram: endalia_hr
+    linkedin: endalia
 
 #sponsors_silver:
 #  - name: Empresa Genérica
@@ -225,13 +240,14 @@ sponsors_gold:
 #    twitter: 
 #    instagram:  
 
-#sponsors_others:
-#  - name: Eboca
-#    text: 
-#    image: img/patrocinadores/colaboradores/eboca.png
-#    web: https://www.eboca.com/
-#    twitter: eboca
-#    instagram: eboca
+sponsors_others:
+  - name: Proxy Hands
+    text: 
+    image: img/patrocinadores/colaboradores/proxyhands.png
+    web: https://proxyhands.com/
+    twitter: ProxyHands
+    instagram: 
+    linkedin: proxyhands
 
 # Agenda
 # talks_track_1:
