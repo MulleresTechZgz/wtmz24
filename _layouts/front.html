@@ -11,12 +11,10 @@
   {% include header.html %}
   <!-- Detalles -->
   {% include details.html %} 
+  <!-- Entradas -->
+  {% include tickets.html %}
   <!-- Album de fotos y video resumen -->
   {% include flickr_album_and_videos.html %}
-  <!-- Entradas -->
-  {% comment %}
-  {% include tickets.html %}
-  {% endcomment %}
   <!-- Entradas talleres-->
   {% comment %}
   {% include workshops_tickets.html %}
@@ -36,18 +34,16 @@
   <!-- Informacion sobre WTMs -->
   {% include event_info.html %}
   <!-- Unete a nuestras ponentes -->
+  {% comment %}
   {% include join_speakers.html %}
+  {% endcomment %}
   <!-- Lista de ponentes -->
   {% comment %}
   {% include list_speakers_soon.html %}
   {% endcomment %}
-  {% comment %}
   {% include list_speakers.html %}
-  {% endcomment %}
   <!-- Agenda -->
-  {% comment %}
   {% include agenda.html %}
-  {% endcomment %}
   <!-- Lista de voluntarias -->
   {% comment %}
   {% include list_volunteers.html %}

@@ -155,15 +155,111 @@ organizers:
 #    linkedin_account: 
 
 #List for speakers
-#speakers:
-#  - name: Laura Alcober
-#    short_name: Laura Alcober
-#    bio: ''
-#    image: img/ponentes/LauraAlcober
-#    image_card: img/ponentes/fichas/LauraAlcober
-#    twitter_account: 
-#    linkedin_account: laura-alcober-prieto-7372b2126
-#    instagram_account:
+speakers:
+  - name: Alba Almazán Lopéz
+    short_name: Alba Almazán
+    bio: ''
+    image: img/ponentes/AlbaAlmazan
+    image_card: img/ponentes/fichas/AlbaAlmazan
+    twitter_account: 
+    linkedin_account: alba-almaz%C3%A1n-l%C3%B3pez-32486473
+    instagram_account: dosrayascomoojos
+  - name: Carmen Ansio
+    short_name: Carmen Ansio
+    bio: ''
+    image: img/ponentes/CarmenAnsio
+    image_card: img/ponentes/fichas/CarmenAnsio
+    twitter_account: carmenansio
+    linkedin_account: carmenansio
+    instagram_account: carmenansio
+  - name: Vanessa Bueno Sancho
+    short_name: Vanessa Bueno
+    bio: ''
+    image: img/ponentes/VanessaBueno
+    image_card: img/ponentes/fichas/VanessaBueno
+    twitter_account: vanesprau
+    linkedin_account: 
+    instagram_account: 
+  - name: Paula Gimeno Palma
+    short_name: Paula Gimeno
+    bio: ''
+    image: img/ponentes/PaulaGimeno
+    image_card: img/ponentes/fichas/PaulaGimeno
+    twitter_account: paula_gimeno30
+    linkedin_account: paulagimeno30
+    instagram_account: paula_gimeno30
+  - name: Paula Gracia Andrés
+    short_name: Paula Gracia
+    bio: ''
+    image: img/ponentes/PaulaGracia
+    image_card: img/ponentes/fichas/PaulaGracia
+    twitter_account: cibereleganzaIT
+    linkedin_account: paulagraciandres
+    instagram_account: 
+  - name: Rita Iglesias Gándara
+    short_name: Rita Iglesias
+    bio: ''
+    image: img/ponentes/RitaIglesias
+    image_card: img/ponentes/fichas/RitaIglesias
+    twitter_account: rita_codes
+    linkedin_account: ritaiglesiasgandara
+    instagram_account: rita_codes
+  - name: Laura Miralles Millas
+    short_name: Laura Miralles
+    bio: ''
+    image: img/ponentes/LauraMiralles
+    image_card: img/ponentes/fichas/LauraMiralles
+    twitter_account: 
+    linkedin_account: laura-miralles
+    instagram_account: 
+  - name: Rosa Mozota
+    short_name: Rosa Mozota
+    bio: ''
+    image: img/ponentes/RosaMozota
+    image_card: img/ponentes/fichas/RosaMozota
+    twitter_account: 
+    linkedin_account: rosamozota
+    instagram_account: 
+  - name: Ruth Navarro Carrasco
+    short_name: Ruth Navarro
+    bio: ''
+    image: img/ponentes/RuthNavarro
+    image_card: img/ponentes/fichas/RuthNavarro
+    twitter_account: 
+    linkedin_account: ruth-navarro-carrasco
+    instagram_account: 
+  - name: Susana Romero Miguel
+    short_name: Susana Romero
+    bio: ''
+    image: img/ponentes/SusanaRomero
+    image_card: img/ponentes/fichas/SusanaRomero
+    twitter_account: suromig
+    linkedin_account: susana-romero-hse-manager-digitalsolutions
+    instagram_account: suromig
+  - name: Alicia Sanjuán Jiménez
+    short_name: Alicia Sanjuán
+    bio: ''
+    image: img/ponentes/AliciaSanjuan
+    image_card: img/ponentes/fichas/AliciaSanjuan
+    twitter_account: alisanji 
+    linkedin_account: alicia-sanjuan-jimenez
+    instagram_account: alisanju
+  - name: Belén Vega Castrillo
+    short_name: Belén Vega
+    bio: ''
+    image: img/ponentes/BelenVega
+    image_card: img/ponentes/fichas/BelenVega
+    twitter_account: 
+    linkedin_account:  bel%C3%A9n-vega-castrillo-7a1b4b147
+    instagram_account: belenph1
+  - name: Raquel Villacampa
+    short_name: Raquel Villacampa
+    bio: ''
+    image: img/ponentes/RaquelVillacampa
+    image_card: img/ponentes/fichas/RaquelVillacampa
+    twitter_account: raquel_villacam
+    linkedin_account: raquel-villacampa
+    instagram_account: 
 
 #List for mentors
 #mentors:
@@ -250,243 +346,245 @@ sponsors_others:
     linkedin: proxyhands
 
 # Agenda
-# talks_track_1:
-#   - time: '09:30-10:00'
-#     track: all
-#     name: 'REGISTRO'
-#     descrip: 
-#     speaker: 
-#     bio_speaker: 
-#     twitter_speaker: 
-#   - time: '10:00-10:15'
-#     track: all
-#     name: 'PRESENTACIÓN Staff WTM Zaragoza'
-#     #second_name: ''
-#     descrip: 
-#     speaker: 
-#     bio_speaker: 
-#     twitter_speaker: 
-#   - time: '10:15-10:50'
-#     track: 1
-#     name: 'Trucos ChatGPT: escribe prompts como si fueras un pro'
-#     descrip: ''
-#     topics: 'Inteligencia Artificial'
-#     speaker: 'Cristina Notario Lendrino'
-#     bio_speaker: 
-#     twitter_speaker: 
-#     image_card: img/charlas/Charla001
-#     url_youtube: JEdupBhA3KQ
-#   - time: '10:55-11:30'
-#     track: 1
-#     name: 'Al ritmo de Beat Saber llevando el UX a otro nivel'
-#     descrip: ''
-#     topics: 'UX, Diseño, accesibilidad'
-#     speaker: 'Coral Corbacho, Miriam de Tomás'
-#     bio_speaker: 
-#     twitter_speaker: 
-#     image_card: img/charlas/Charla002
-#     url_youtube: lMAi1iEUPXM
-#   - time: '11:35-12:10'
-#     track: 1
-#     name: 'Diseño vs Desarrollo. El milagro del match entre dos polos opuestos'
-#     descrip: ''
-#     topics: 'Programación / Desarrollo, UX, Diseño'
-#     speaker: 'Sonia Martínez Becerra'
-#     bio_speaker: 
-#     twitter_speaker: 
-#     image_card: img/charlas/Charla003
-#     url_youtube: 4rTMRcexWaI
-#   - time: '12:15-12:45'
-#     track: all
-#     name: 'DESCANSO CAFÉ'
-#     descrip: 
-#     speaker: 
-#     bio_speaker: 
-#     twitter_speaker: 
-#   - time: '12:45-13:20'
-#     track: 1
-#     name: 'El aula Kanhuan!'
-#     descrip: ''
-#     topics: 'Robótica, Programación / Desarrollo, Educación, Inteligencia Artificial, Metodologías Ágiles, Comunicación'
-#     speaker: 'Noelia Cebrián Marta'
-#     bio_speaker: 
-#     twitter_speaker: 
-#     image_card: img/charlas/Charla004
-#     url_youtube: 5LONDHgcBPg
-#   - time: '13:25-14:00'
-#     track: 1
-#     name: '¿Computación Cuántica: El Futuro de la Tecnología o Ciencia Ficción?'
-#     descrip: ''
-#     topics: 'Programación / Desarrollo, Inteligencia Artificial, Nuevas tecnologías emergentes. Computación cuántica'
-#     speaker: 'Pilar Mollá Ortigas'
-#     bio_speaker: 
-#     twitter_speaker: 
-#     image_card: img/charlas/Charla005
-#     url_youtube: 1t6i1ZSYLW4
+talks_track_1:
+   - time: '09:30-10:00'
+     track: all
+     name: 'REGISTRO'
+     #descrip: 
+     #speaker: 
+     #bio_speaker: 
+     #twitter_speaker: 
+   - time: '10:00-10:15'
+     track: all
+     name: 'PRESENTACIÓN Staff WTM Zaragoza'
+     #second_name: ''
+     #descrip: 
+     #speaker: 
+     #bio_speaker: 
+     #twitter_speaker: 
+   - time: '10:15-10:50'
+     track: 1
+     name: 'Mente flexible, aprendizaje poderoso: Estrategias para adaptarte a tu cerebro'
+     #descrip: ''
+     #topics: ''
+     speaker: 'Rita Iglesias Gándara'
+     #bio_speaker: 
+     #twitter_speaker: 
+     image_card: img/charlas/Charla001
+     #url_youtube: 
+   - time: '10:55-11:30'
+     track: 1
+     name: 'El poder del Scroll: historias interactivas con CSS'
+     #descrip: ''
+     #topics: ''
+     speaker: 'Carmen Ansio'
+     #bio_speaker: 
+     #twitter_speaker: 
+     image_card: img/charlas/Charla002
+     #url_youtube: 
+   - time: '11:35-12:10'
+     track: 1
+     name: 'Los riesgos ocultos de compartir tu ADN: Protege tus datos genéticos'
+     #descrip: ''
+     #topics: ''
+     speaker: 'Vanessa Bueno Sancho'
+     #bio_speaker: 
+     #twitter_speaker: 
+     image_card: img/charlas/Charla003
+     #url_youtube: 4rTMRcexWaI
+   - time: '12:15-12:45'
+     track: all
+     name: 'DESCANSO CAFÉ'
+     #descrip: 
+     #speaker: 
+     #bio_speaker: 
+     #twitter_speaker: 
+   - time: '12:45-13:20'
+     track: 1
+     name: 'El Design Thinking y su aplicación a proyectos reales'
+     #descrip: ''
+     #topics: ''
+     speaker: 'Paula Gimeno Palma'
+     #bio_speaker: 
+     #twitter_speaker: 
+     image_card: img/charlas/Charla004
+     #url_youtube: 5LONDHgcBPg
+   - time: '13:25-14:00'
+     track: 1
+     name: '¡Alarma al descubierto!  I+D protegiendo lo que mas importa'
+     #descrip: ''
+     #topics: ''
+     speaker: 'Alicia Sanjuán Jiménez y Belén Vega Castrillo'
+     #bio_speaker: 
+     #twitter_speaker: 
+     image_card: img/charlas/Charla005
+     #url_youtube: 1t6i1ZSYLW4
 #   - time: '14:05-14:25'
 #     track: 1
 #     name: 'Charla pendiente de anunciar'
-#     descrip: ''
+     #descrip: ''
 #     topics: ''
 #     speaker: ''
-#     bio_speaker: 
-#     twitter_speaker: 
-#     image_card: 
-#     url_youtube:
-#   - time: '14:30-14:35'
-#     track: all
-#     name: 'Fotografía de grupo'
-#     descrip: 
-#     speaker: 
-#     bio_speaker: 
-#     twitter_speaker: 
-#   - time: '14:35-16:00'
-#     track: all
-#     name: 'COMIDA Y NETWORKING (Cantina)'
-#     descrip: 
-#     speaker: 
-#     bio_speaker: 
-#     twitter_speaker: 
-#   - time: '16:00-16:35'
-#     track: 1
-#     name: 'Cómo la tecnología impulsa la revolución de las prótesis para el cáncer de mama'
-#     descrip: ''
-#     topics: 'Motivación, Diseño, Impresión 3D y Emprendimiento Social'
-#     speaker: 'Sara Gascon Duran y Lidia Gomez'
-#     bio_speaker: 
-#     twitter_speaker: 
-#     image_card: img/charlas/Charla006
-#     url_youtube: b4lkKZxfv3U
-#   - time: '16:40-17:15'
-#     track: 1
-#     name: 'Dungeons & Datos: Bestiario de antipatrones y cómo derrotarlos'
-#     descrip: ''
-#     topics: 'Programación / Desarrollo, Data'
-#     speaker: 'Laura Alcober Prieto'
-#     bio_speaker: 
-#     twitter_speaker: 
-#     image_card: img/charlas/Charla007
-#     url_youtube: gIFy67KqDLo
-#   - time: '17:20-17:55'
-#     track: 1
-#     name: 'Las Self-Orgs y cómo llevar tu empresa a un nuevo paradigma'
-#     descrip: ''
-#     topics: 'Nuevos Modelos Gobernanza'
-#     speaker: 'Miriam Moreno Bellido'
-#     bio_speaker: 
-#     twitter_speaker: 
-#     image_card: img/charlas/Charla008
-#     url_youtube: 9LF1k6b9pPs
-#   - time: '18:00-18:25'
-#     track: all
-#     name: 'CIERRE Staff WTM Zaragoza'
-#     #second_name: ''
-#     descrip: 
-#     speaker: 
-#     bio_speaker: 
-#     twitter_speaker: 
-#   - time: '18:25-18:30'
-#     track: all
-#     name: 'Fotografía de grupo'
-#     descrip: 
-#     speaker: 
-#     bio_speaker: 
-#     twitter_speaker: 
-#   - time: '18:30-21:00'
-#     track: all
-#     name: 'DJ Set y Networking (Cantina)'
-#     descrip: 
-#     speaker: 
-#     bio_speaker: 
-#     twitter_speaker: 
-  
+     #bio_speaker: 
+     #twitter_speaker: 
+     #image_card: 
+     #url_youtube:
+   - time: '14:05-14:35'
+   #- time: '14:30-14:35'
+     track: all
+     name: 'Fotografía de grupo'
+     #descrip: 
+     #speaker: 
+     #bio_speaker: 
+     #twitter_speaker: 
+   - time: '14:35-16:00'
+     track: all
+     name: 'COMIDA Y NETWORKING (Cantina)'
+     #descrip: 
+     #speaker: 
+     #bio_speaker: 
+     #twitter_speaker: 
+   - time: '16:00-16:35'
+     track: 1
+     name: 'Doctor Digital: Bienvenid@s al futuro de la prescripción personalizada'
+     #descrip: ''
+     #topics: ''
+     speaker: 'Laura Miralles Millas'
+     #bio_speaker: 
+     #twitter_speaker: 
+     image_card: img/charlas/Charla006
+     #url_youtube: 
+   - time: '16:40-17:15'
+     track: 1
+     name: 'Construye tu Spotify Wrapped: Aprende a Crear tu Propio Informe'
+     #descrip: ''
+     #topics: ''
+     speaker: 'Ruth Navarro Carrasco'
+     #bio_speaker: 
+     #twitter_speaker: 
+     image_card: img/charlas/Charla007
+     #url_youtube: 
+   - time: '17:20-17:55'
+     track: 1
+     name: 'Fake-numbers y cómo combatirlos desde las inteligencias'
+     #descrip: ''
+     #topics: ''
+     speaker: 'Raquel Villacampa'
+     #bio_speaker: 
+     #twitter_speaker: 
+     image_card: img/charlas/Charla008
+     #url_youtube: 
+   - time: '18:00-18:25'
+     track: all
+     name: 'CIERRE Staff WTM Zaragoza'
+     #second_name: ''
+     #descrip: 
+     #speaker: 
+     #bio_speaker: 
+     #twitter_speaker: 
+   - time: '18:25-18:30'
+     track: all
+     name: 'Fotografía de grupo'
+     #descrip: 
+     #speaker: 
+     #bio_speaker: 
+     #twitter_speaker: 
+   - time: '18:30-21:00'
+     track: all
+     name: 'DJ Set y Networking (Cantina)'
+     #descrip: 
+     #speaker: 
+     #bio_speaker: 
+     #twitter_speaker: 
+
 # talks_track_2: 
 
-# workshops_track_1: 
-#   - time: '09:30-10:00'
-#     track: all
-#     name: 'REGISTRO'
-#     descrip: 
-#     speaker: 
-#     bio_speaker: 
-#     twitter_speaker: 
-#   - time: '10:00-10:15'
-#     track: all
-#     name: 'PRESENTACIÓN Staff WTM Zaragoza (Auditorio)'
-#     #second_name: ''
-#     descrip: 
-#     speaker: 
-#     bio_speaker: 
-#     twitter_speaker: 
-#   - time: '10:15-12:10'
-#     track: 1
-#     name: 'Cobots en acción'
-#     descrip: ''
-#     topics: ''
-#     speaker: 'María Pilar Sanchez Sarasa'
-#     bio_speaker: 
-#     twitter_speaker: 
-#     image_card: img/charlas/Taller001
-#     url_youtube:
-#   - time: '12:15-12:45'
-#     track: all
-#     name: 'DESCANSO CAFÉ'
-#     descrip: 
-#     speaker: 
-#     bio_speaker: 
-#     twitter_speaker: 
-#   - time: '12:45-14:25'
-#     track: 1
-#     name: 'Nobel Run. Cómo visibilizar a mujeres científicas e inventoras jugando'
-#     descrip: ''
-#     topics: ''
-#     speaker: 'Lorena Fernandez'
-#     bio_speaker: 
-#     twitter_speaker: 
-#     image_card: img/charlas/Taller002
-#     url_youtube: 
-#   - time: '14:30-14:35'
-#     track: all
-#     name: 'Fotografía de grupo (Auditorio)'
-#     descrip: 
-#     speaker: 
-#     bio_speaker: 
-#     twitter_speaker: 
-#   - time: '14:35-16:00'
-#     track: all
-#     name: 'COMIDA Y NETWORKING (Cantina)'
-#     descrip: 
-#     speaker: 
-#     bio_speaker: 
-#     twitter_speaker: 
-#   - time: '16:00-18:00'
-#     track: 1
-#     name: ''
-#     descrip: ''
-#     speaker: ''
-#     bio_speaker: 
-#     twitter_speaker: 
-#     url_youtube: 
-#   - time: '18:00-18:25'
-#     track: all
-#     name: 'CIERRE Staff WTM Zaragoza (Auditorio)'
-#     descrip: 
-#     speaker: 
-#     bio_speaker: 
-#     twitter_speaker: 
-#   - time: '18:25-18:30'
-#     track: all
-#     name: 'Fotografía de grupo (Auditorio)'
-#     descrip: 
-#     speaker: 
-#     bio_speaker: 
-#     twitter_speaker: 
-#   - time: '18:30-21:00'
-#     track: all
-#     name: 'DJ Set y Networking (Cantina)'
-#     descrip: 
-#     speaker: 
-#     bio_speaker: 
-#     twitter_speaker: 
+workshops_track_1: 
+   - time: '09:30-10:00'
+     track: all
+     name: 'REGISTRO'
+     #descrip: 
+     #speaker: 
+     #bio_speaker: 
+     #twitter_speaker: 
+   - time: '10:00-10:15'
+     track: all
+     name: 'PRESENTACIÓN Staff WTM Zaragoza (Auditorio)'
+     #second_name: ''
+     #descrip: 
+     #speaker: 
+     #bio_speaker: 
+     #twitter_speaker: 
+   - time: '10:15-12:10'
+     track: 1
+     name: 'Inteligencia artificial, tell me more'
+     #descrip: ''
+     #topics: ''
+     speaker: 'Alba Almazán López'
+     #bio_speaker: 
+     #twitter_speaker: 
+     image_card: img/charlas/Taller001
+     #url_youtube:
+   - time: '12:15-12:45'
+     track: all
+     name: 'DESCANSO CAFÉ'
+     #descrip: 
+     #speaker: 
+     #bio_speaker: 
+     #twitter_speaker: 
+   - time: '12:45-14:25'
+     track: 1
+     name: 'Gymkana de accesibilidad'
+     #descrip: ''
+     #topics: ''
+     speaker: 'Rosa Mozota'
+     #bio_speaker: 
+     #twitter_speaker: 
+     image_card: img/charlas/Taller002
+     #url_youtube: 
+   - time: '14:30-14:35'
+     track: all
+     name: 'Fotografía de grupo (Auditorio)'
+     #descrip: 
+     #speaker: 
+     #bio_speaker: 
+     #twitter_speaker: 
+   - time: '14:35-16:00'
+     track: all
+     name: 'COMIDA Y NETWORKING (Cantina)'
+     #descrip: 
+     #speaker: 
+     #bio_speaker: 
+     #twitter_speaker: 
+   - time: '16:00-18:00'
+     track: 1
+     name: 'Estrategias para una vida digitalmente saludable'
+     #descrip: ''
+     speaker: 'Paula Gracia Andrés, Judith Lopéz Romero y Susana Romero Miguel'
+     #bio_speaker: 
+     #twitter_speaker: 
+     image_card: img/charlas/Taller003
+     #url_youtube: 
+   - time: '18:00-18:25'
+     track: all
+     name: 'CIERRE Staff WTM Zaragoza (Auditorio)'
+     #descrip: 
+     #speaker: 
+     #bio_speaker: 
+     #twitter_speaker: 
+   - time: '18:25-18:30'
+     track: all
+     name: 'Fotografía de grupo (Auditorio)'
+     #descrip: 
+     #speaker: 
+     #bio_speaker: 
+     #twitter_speaker: 
+   - time: '18:30-21:00'
+     track: all
+     name: 'DJ Set y Networking (Cantina)'
+     #descrip: 
+     #speaker: 
+     #bio_speaker: 
+     #twitter_speaker: 
 
 # workshops_track_2: 
