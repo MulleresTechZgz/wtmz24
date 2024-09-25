@@ -290,6 +290,13 @@ sponsors_platinum:
     twitter: nextdigitalhub
     instagram: 
     linkedin: nextdigitalhub
+  - name: Instituto Tecnológico de Aragón
+    text: 
+    image: img/patrocinadores/platinum/ita.png
+    web: https://www.ita.es/
+    twitter: ITA_tecnologia
+    instagram: ita_tecnologia
+    linkedin: ita-tecnologia
 
 sponsors_gold:
   - name: GeoSLab
