@@ -334,6 +334,14 @@ sponsors_gold:
     twitter: 
     instagram: endalia_hr
     linkedin: endalia
+  - name: Pronet
+    text: 
+    image: img/patrocinadores/gold/pronet.png
+    web: https://www.grupo-pronet.com/
+    twitter: grupopronet
+    instagram: 
+    linkedin: pronet-ise
+
 
 #sponsors_silver:
 #  - name: Empresa Genérica
