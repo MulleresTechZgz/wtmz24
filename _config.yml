@@ -454,7 +454,7 @@ talks_track_1:
      #twitter_speaker: 
    - time: '14:35-16:00'
      track: all
-     name: 'COMIDA Y NETWORKING (Cantina)'
+     name: 'COMIDA Y NETWORKING'
      #descrip: 
      #speaker: 
      #bio_speaker: 
@@ -506,7 +506,7 @@ talks_track_1:
      #twitter_speaker: 
    - time: '18:30-21:00'
      track: all
-     name: 'DJ Set y Networking (Cantina)'
+     name: 'DJ Set y Networking'
      #descrip: 
      #speaker: 
      #bio_speaker: 
@@ -566,7 +566,7 @@ workshops_track_1:
      #twitter_speaker: 
    - time: '14:35-16:00'
      track: all
-     name: 'COMIDA Y NETWORKING (Cantina)'
+     name: 'COMIDA Y NETWORKING'
      #descrip: 
      #speaker: 
      #bio_speaker: 
@@ -596,7 +596,7 @@ workshops_track_1:
      #twitter_speaker: 
    - time: '18:30-21:00'
      track: all
-     name: 'DJ Set y Networking (Cantina)'
+     name: 'DJ Set y Networking'
      #descrip: 
      #speaker: 
      #bio_speaker: 
