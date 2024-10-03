@@ -349,6 +349,13 @@ sponsors_gold:
     twitter: grupopronet
     instagram: 
     linkedin: pronet-ise
+  - name: NTT Data
+    text: 
+    image: img/patrocinadores/gold/nttdata.png
+    web: https://es.nttdata.com/
+    twitter: NTTDataSpain
+    instagram: nttdata.espana
+    linkedin: ntt-data-europe-latam
 
 
 #sponsors_silver:
