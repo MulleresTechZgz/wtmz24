@@ -29,7 +29,7 @@ copyright:
 
 # Tickets
 sold_out_tickets_first: true
-sold_out_tickets: false
+sold_out_tickets: true
 sold_out_workshop_tickets: false
 
 # Timezone
