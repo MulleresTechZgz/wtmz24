@@ -356,6 +356,13 @@ sponsors_gold:
     twitter: NTTDataSpain
     instagram: nttdata.espana
     linkedin: ntt-data-europe-latam
+  - name: Securitas Direct by Verisure
+    text: 
+    image: img/patrocinadores/gold/verisure.png
+    web: https://www.securitasdirect.es/
+    twitter: SecuritasDirect
+    instagram: securitasdirect
+    linkedin: securitas-direct-verisure-group
 
 
 #sponsors_silver:
