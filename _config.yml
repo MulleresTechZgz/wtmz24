@@ -349,13 +349,6 @@ sponsors_gold:
     twitter: grupopronet
     instagram: 
     linkedin: pronet-ise
-  - name: NTT Data
-    text: 
-    image: img/patrocinadores/gold/nttdata.png
-    web: https://es.nttdata.com/
-    twitter: NTTDataSpain
-    instagram: nttdata.espana
-    linkedin: ntt-data-europe-latam
   - name: Securitas Direct by Verisure
     text: 
     image: img/patrocinadores/gold/verisure.png
@@ -363,6 +356,13 @@ sponsors_gold:
     twitter: SecuritasDirect
     instagram: securitasdirect
     linkedin: securitas-direct-verisure-group
+  - name: NTT Data
+    text: 
+    image: img/patrocinadores/gold/nttdata.png
+    web: https://es.nttdata.com/
+    twitter: NTTDataSpain
+    instagram: nttdata.espana
+    linkedin: ntt-data-europe-latam
 
 
 #sponsors_silver:
