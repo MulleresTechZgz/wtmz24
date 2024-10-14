@@ -352,10 +352,10 @@ sponsors_gold:
   - name: Securitas Direct by Verisure
     text: 
     image: img/patrocinadores/gold/verisure.png
-    web: https://www.securitasdirect.es/
+    web: https://www.verisure.com
     twitter: SecuritasDirect
     instagram: securitasdirect
-    linkedin: securitas-direct-verisure-group
+    linkedin: verisure
   - name: NTT Data
     text: 
     image: img/patrocinadores/gold/nttdata.png
@@ -363,6 +363,13 @@ sponsors_gold:
     twitter: NTTDataSpain
     instagram: nttdata.espana
     linkedin: ntt-data-europe-latam
+  - name: Seventh Lab
+    text: 
+    image: img/patrocinadores/gold/seventhlab.png
+    web: https://seventhlab.es/
+    twitter: seventh_lab
+    instagram: 
+    linkedin: seventh-lab
 
 
 #sponsors_silver:
