@@ -576,7 +576,7 @@ workshops_track_1:
      #speaker: 
      #bio_speaker: 
      #twitter_speaker: 
-   - time: '12:45-14:25'
+   - time: '12:45-14:30'
      track: 1
      name: 'Gymkana de accesibilidad'
      #descrip: ''
@@ -586,9 +586,9 @@ workshops_track_1:
      #twitter_speaker: 
      image_card: img/charlas/Taller002
      #url_youtube: 
-   - time: '14:30-14:35'
-     track: all
-     name: 'Fotografía de grupo (Auditorio)'
+   #- time: '14:30-14:35'
+     #track: all
+     #name: 'Fotografía de grupo (Auditorio)'
      #descrip: 
      #speaker: 
      #bio_speaker: 
