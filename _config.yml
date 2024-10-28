@@ -305,6 +305,13 @@ sponsors_platinum:
     twitter: ITA_tecnologia
     instagram: ita_tecnologia
     linkedin: ita-tecnologia
+  - name: Sysdig
+    text: 
+    image: img/patrocinadores/platinum/sysdig.png
+    web: https://sysdig.es/
+    twitter: sysdig
+    instagram: sysdig
+    linkedin: sysdig
 
 sponsors_gold:
   - name: GeoSLab
@@ -370,7 +377,13 @@ sponsors_gold:
     twitter: seventh_lab
     instagram: 
     linkedin: seventh-lab
-
+  - name: Hiberus
+    text: 
+    image: img/patrocinadores/gold/fundacion_hiberus.png
+    web: https://www.fundacionhiberus.com/
+    twitter: hiberus
+    instagram: 
+    linkedin: hiberus-tecnologia
 
 #sponsors_silver:
 #  - name: Empresa Genérica
@@ -388,6 +401,19 @@ sponsors_others:
     twitter: ProxyHands
     instagram: 
     linkedin: proxyhands
+  - name: Eboca
+    text: 
+    image: img/patrocinadores/colaboradores/eboca.png
+    web: https://www.eboca.com/
+    twitter: eboca
+    instagram: eboca
+    linkedin: 
+  - name: Ambar
+    text: 
+    image: img/patrocinadores/colaboradores/ambar.png
+    web: https://ambar.com
+    twitter: cervezasambar
+    linkedin: 
 
 # Agenda
 talks_track_1:
