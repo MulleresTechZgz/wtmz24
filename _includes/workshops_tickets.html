@@ -1,4 +1,4 @@
-<section id="tickets" style="background-image: url('img/portada/portada_color_liso.png'); background-size: 100% 550px; max-width: 100%; background-repeat: no-repeat; height: auto; padding-top: 50px; color: #ffffff !important; font-size: 26px !important; font-weight: bold !important; ">
+<section id="tickets" style="background-image: url('img/portada/portada_color_liso.png'); background-size: 100% 550px; max-width: 100%; background-repeat: no-repeat; height: auto; padding-top: 20px; padding-bottom: 50px; color: #ffffff !important; font-size: 26px !important; font-weight: bold !important; ">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
@@ -13,45 +13,36 @@
         
         <div id="texto_entradas_proximamente_talleres" style="display: block;">
           <!-- Antes del dia de venta de entradas primera tanda -->
-          <p class="lead_big">Entradas de talleres a la venta <br/>lunes 6 de noviembre a las 19:00<br/></p>
+          <p class="lead_big">Entradas de talleres a la venta <br/>jueves 31 de octubre a las 10:00<br/></p>
           <p class="lead_big" style="margin-bottom: 0px !important;">¡No te quedes sin la tuya!</p>
         </div>
 
         <div id="texto_dia_de_venta_de_entradas_talleres" style="display: none;">
           <!-- Dia de venta de entradas primera tanda antes de la hora -->
-          <p class="lead_big" style="margin-bottom: 0px !important;">Hoy a partir de las 19:00 abriremos la venta de entradas de talleres. </p>
+          <p class="lead_big" style="margin-bottom: 0px !important;">Hoy a partir de las 10:00 abriremos la venta de entradas de talleres. </p>
           <p class="lead_big" style="margin-bottom: 0px !important;">¡No te quedes sin la tuya!</p>
         </div>
       
         <div id="texto_entradas_a_la_venta_talleres" style="display: none;">
           <!-- Venta de entradas primera tanda ABIERTA -->
           <p class="lead_big">Ya a la venta las entradas de talleres. <br/>¡No te quedes sin la tuya!<br/></p>
-
-          <div class="col-lg-5 col-sm-12">
-            <a href="https://etopia.es/producto/taller-cobots-en-accion-wtm23/" target="_blank" class="btn btn-dark btn-primary_white btn-lg" style="width: 100%;">
-              Taller: Cobots en acción
-            </a>
-          </div>
-          <div class="col-lg-5 col-lg-offset-2 col-sm-12">
-            <a href="https://etopia.es/producto/nobel-run-como-visibilizar-a-mujeres-cientificas-e-inventoras-jugando/" target="_blank" class="btn btn-dark btn-primary_white btn-lg" style="width: 100%;">
-              Taller: Nobel Run
-            </a>
-          </div>
         </div>
   
         <div id="texto_entradas_agotadas_talleres" style="display: none;">
           <!-- Despues del dia de venta de entradas segunda tanda con flag de SOLD OUT -->
           <p class="lead_big">Entradas de talleres ¡AGOTADAS!<br/></p>
         </div>
-        
-        <div class="modal fade" id="shirt-sizing" role="dialog">
-          <div class="modal-dialog">
-            <!-- Modal content-->
-            <div class="modal-content">
-              <div class="modal-body modal-shirt-sizing-card" style="background-image: url(img/camisetas/tallaje_camisetas.jpg);">
-                  <button type="button" class="close" data-dismiss="modal">&times;</button>
-              </div>
-            </div>
+
+        <div>
+          <div class="col-lg-2 col-lg-offset-5 col-sm-12">
+            <a href="https://www.eventbrite.es/e/talleres-women-techmakers-zaragoza-2024-tickets-1051756942327?aff=oddtdtcreator" target="_blank" class="btn btn-dark btn-primary_white btn-lg" style="width: 100%;">
+              Talleres
+            </a>
+          </div>
+          <div class="col-lg-2 col-lg-offset-5 col-sm-12">
+            <a href="https://www.eventbrite.es/e/ludoteca-women-techmakers-zaragoza-2024-tickets-1063568384669?aff=oddtdtcreator/" target="_blank" class="btn btn-dark btn-primary_white btn-lg" style="width: 100%;">
+              Ludoteca
+            </a>
           </div>
         </div>
 
@@ -61,8 +52,8 @@
   <script>
 
     // Set the date we're counting down to
-    var countDown_day_workshops = new Date("Nov 6, 2023 00:00:01");
-    var countDown_workshops = new Date("Nov 6, 2023 19:00:00");
+    var countDown_day_workshops = new Date("Oct 31, 2024 00:00:01");
+    var countDown_workshops = new Date("Oct 31, 2024 10:00:00");
 
     var agotadas_talleres = document.getElementById("entradas_agotadas_talleres").innerHTML  == 'true';
      
@@ -72,6 +63,7 @@
 
       var es_dia_de_publicacion_talleres = (now >= countDown_day_workshops);
       var hay_que_publicar_talleres = (now >= countDown_workshops);
+      console.log(agotadas_talleres + ' - ' + es_dia_de_publicacion_talleres + ' - ' + hay_que_publicar_talleres);
       
       document.getElementById("hora_real_servidor_talleres").innerHTML = now;
 
@@ -112,7 +104,9 @@
         document.getElementById("texto_entradas_agotadas_talleres").style.display = 'none';
       }
     }
-    cambiar_texto_a_mostrar();
+
+    cambiar_texto_a_mostrar_talleres();
+
     // Update the count down every 1 second
     var x = setInterval(function() {
 
