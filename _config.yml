@@ -381,9 +381,9 @@ sponsors_gold:
     text: 
     image: img/patrocinadores/gold/fundacion_hiberus.png
     web: https://www.fundacionhiberus.com/
-    twitter: hiberus
-    instagram: 
-    linkedin: hiberus-tecnologia
+    twitter: 
+    instagram: fundacionhiberus
+    linkedin: fundacion-hiberus
 
 #sponsors_silver:
 #  - name: Empresa Genérica
