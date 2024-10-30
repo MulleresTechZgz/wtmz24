@@ -312,6 +312,13 @@ sponsors_platinum:
     twitter: sysdig
     instagram: sysdig
     linkedin: sysdig
+  - name: Vueling
+    text: 
+    image: img/patrocinadores/platinum/vueling.png
+    web: https://www.vueling.com/es
+    twitter: vueling
+    instagram: vueling
+    linkedin: vueling-airlines
 
 sponsors_gold:
   - name: GeoSLab
