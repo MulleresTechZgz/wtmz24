@@ -452,6 +452,20 @@ sponsors_others:
     web: https://ambar.com
     twitter: cervezasambar
     linkedin: 
+  - name: Pop It
+    text: 
+    image: img/patrocinadores/colaboradores/popit.png
+    web: https://popit.es/
+    twitter: palomitaspopit
+    instagram: palomitaspopit
+    linkedin: 
+  - name: Martín Martín
+    text: 
+    image: img/patrocinadores/colaboradores/martinmartin.png
+    web: https://www.martinmartin.es/
+    twitter: MartinMartin_es
+    instagram: martinmartin_es
+    linkedin: 
 
 # Agenda
 talks_track_1:
