@@ -312,6 +312,39 @@ volunteers:
     twitter_account: Laura_Morillo
     instagram_account: Laura_Morillo
     linkedin_account: 
+  - name: Fatima Sadeg
+    short_name: Fatima Sadeg
+    bio: 'Me llamo Fatima Sadeg tengo 18 años, soy de Castellón pero actualmente vivo en Zaragoza ya que estudio allí, soy una persona muy trabajadora, atenta y me gusta el trabajo en equipo'
+    image: img/voluntarias/FatimaSadeg
+    image_card: 
+    twitter_account: 
+    instagram_account: fatiima77._
+    linkedin_account: 
+  - name: Maryame El Gharbali Laraichi
+    short_name: Maryame El Gharbali
+    bio: 'Soy Maryam, estudiante de ingeniería mecánica, apasionada por comprender el funcionamiento de los elementos que nos rodean y en constante búsqueda de conocimiento y desafíos que fomenten mi crecimiento.'
+    image: img/voluntarias/MaryameGharbali
+    image_card: 
+    twitter_account: 
+    instagram_account: gmaryxm
+    linkedin_account: maryam-el-gharbali-758094293
+  - name: Anastasia Shlyk
+    short_name: Anastasia Shlyk
+    bio: 'Soy una estudiante del primer curso de ingeniería Informática en la EINA de Zaragoza. Soy de Ucrania y he venido a España hace 4 años. Durante muchos años me he estado interesando por la programación, avanzar por mi cuenta en web development. En la Eso participaba en muchos proyectos tecnológicos como Technovation Girls, por lo que la elección de mi carrera no fue difícil para mi.'
+    image: img/voluntarias/AnastasiaShlyk
+    image_card: 
+    twitter_account: 
+    instagram_account: anastasia_shlykk
+    linkedin_account: 
+  - name: Lara Montecchia Rodrigues
+    short_name: Lara Montecchia
+    bio: 'Soy estudiante de ingeniería informática. Me considero una persona amable y me gusta trabajar en equipo. Me interesan las matemáticas y disfruto de jugar a voley y viajar.'
+    image: img/voluntarias/LaraMontecchia
+    image_card: 
+    twitter_account: 
+    instagram_account: laraa.mr6
+    linkedin_account: 
+
 
 #List for sponsors
 sponsors_platinum:
