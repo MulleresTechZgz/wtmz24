@@ -518,7 +518,7 @@ talks_track_1:
      #bio_speaker: 
      #twitter_speaker: 
      image_card: img/charlas/Charla001
-     #url_youtube: 
+     url_youtube: 58Ccp-fIIHo
    - time: '10:55-11:30'
      track: 1
      name: 'El poder del Scroll: historias interactivas con CSS'
@@ -555,7 +555,7 @@ talks_track_1:
      #bio_speaker: 
      #twitter_speaker: 
      image_card: img/charlas/Charla004
-     #url_youtube: 5LONDHgcBPg
+     url_youtube: UW6t224yF2A
    - time: '13:25-14:00'
      track: 1
      name: '¡Alarma al descubierto!  I+D protegiendo lo que mas importa'
@@ -600,7 +600,7 @@ talks_track_1:
      #bio_speaker: 
      #twitter_speaker: 
      image_card: img/charlas/Charla006
-     #url_youtube: 
+     url_youtube: WFU0BN1wWt8
    - time: '16:40-17:15'
      track: 1
      name: 'Construye tu Spotify Wrapped: Aprende a Crear tu Propio Informe'
@@ -610,7 +610,7 @@ talks_track_1:
      #bio_speaker: 
      #twitter_speaker: 
      image_card: img/charlas/Charla007
-     #url_youtube: 
+     url_youtube: DAbStIPsnqY
    - time: '17:20-17:55'
      track: 1
      name: 'Fake-numbers y cómo combatirlos desde las inteligencias'
@@ -620,7 +620,7 @@ talks_track_1:
      #bio_speaker: 
      #twitter_speaker: 
      image_card: img/charlas/Charla008
-     #url_youtube: 
+     url_youtube: syfurSXn21w
    - time: '18:00-18:25'
      track: all
      name: 'CIERRE Staff WTM Zaragoza'
