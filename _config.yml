@@ -538,7 +538,7 @@ talks_track_1:
      #bio_speaker: 
      #twitter_speaker: 
      image_card: img/charlas/Charla003
-     #url_youtube: 4rTMRcexWaI
+     url_youtube: S8pm4iSIeGs
    - time: '12:15-12:45'
      track: all
      name: 'DESCANSO CAFÉ'
@@ -565,7 +565,7 @@ talks_track_1:
      #bio_speaker: 
      #twitter_speaker: 
      image_card: img/charlas/Charla005
-     #url_youtube: 1t6i1ZSYLW4
+     url_youtube: tD7e9OG3hY8
 #   - time: '14:05-14:25'
 #     track: 1
 #     name: 'Charla pendiente de anunciar'
