@@ -45,9 +45,9 @@
                           {% if image_volunteer != ""  %}
                           <img src="{{ image_volunteer }}.jpg" onerror="this.src='img/ponentes/comodin_c.jpg'" class="fa fa-stack-1x text-primary img-circle"/>
                           {% elsif twitter_volunteer != "" %}
-                          <img src="https://avatars.io/twitter/{{ volunteer.twitter_account }}" class="fa fa-stack-1x text-primary img-circle"/>
+                          <img src="https://avatars.io/twitter/{{ volunteer.twitter_account }}" onerror="this.src='img/ponentes/comodin_c.jpg'" class="fa fa-stack-1x text-primary img-circle"/>
                           {% else %}
-                          <i class="fa fa-user fa-stack-1x text-primary"></i>
+                          <img src="img/ponentes/comodin_c.jpg" class="fa fa-stack-1x text-primary img-circle"/>                          
                           {% endif %}
                         </span>
                           <h4 style="min-height: 40px !important;">
